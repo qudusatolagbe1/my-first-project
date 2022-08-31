@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(163, 144, 118);
+}
+
+.pics {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  padding-left: 10%;
+  margin-top: 50px;
+}
+
+.input {
+  width: 80%;
+  margin-left: 150px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  position: relative;
+}
+.pic1 {
+  width: 100px;
+}
+img {
+  border-radius: 100px;
+}
+
+.pic2 {
+  width: 100px;
+}
+
+.pic3 {
+  width: 100px;
+}
+.pic4 {
+  width: 100px;
+}
+.pic5 {
+  width: 100px;
+}
+.pic6 {
+  width: 100px;
+}
+.pic7 {
+  width: 100px;
+}
+.pic8 {
+  width: 100px;
+}
+.pic9 {
+  width: 100px;
+}
+.pic10 {
+  width: 100px;
+}
+.para {
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+}
+p {
+  color: rgb(109, 103, 95);
+}
+.go {
+  text-align: center;
+  font-size: 200px;
+}
+
+.g {
+  color: rgb(121, 204, 207);
+}
+.g1 {
+  color: rgb(178, 219, 138);
+}
+.search1 {
+  width: 20px;
+  position: absolute;
+  left: 88%;
+  bottom: 10%;
+}
+.search2 {
+  width: 20px;
+  position: absolute;
+  left: 13%;
+  bottom: 10%;
+}
